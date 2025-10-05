@@ -9,7 +9,7 @@ body {
   height: 100%;
   width: 100%;
   background-color: #f5f9fa;
- background-image: url(https://img.freepik.com/premium-vector/white-background-with-lines-pattern-design-vector-illustration_755074-82.jpg);  
+  background-image: url(https://img.freepik.com/premium-vector/white-background-with-lines-pattern-design-vector-illustration_755074-82.jpg);
 }
 
 .firstheading {
@@ -32,6 +32,7 @@ body {
   color: rgb(255, 255, 255);
   font-style: italic;
 }
+
 .aboutme {
   text-align: center;
   margin-top: 20px;
