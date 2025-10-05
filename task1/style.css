@@ -9,6 +9,7 @@ body {
   height: 100%;
   width: 100%;
   background-color: #f5f9fa;
+ background-image: url(https://img.freepik.com/premium-vector/white-background-with-lines-pattern-design-vector-illustration_755074-82.jpg);  
 }
 
 .firstheading {
@@ -129,9 +130,46 @@ body {
   font-family: "Times New Roman", Times, serif;
 }
 
-#projectslinks{
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+#projectslinks {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-size: 20px;
   color: black;
   text-decoration: none;
+}
+
+.contactme {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 180px;
+  margin-right: 180px;
+  border-radius: 10px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  background-color: rgba(70, 212, 77, 0.13);
+}
+
+.contactme h3 {
+  font-size: 25px;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#contacth5 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 20px;
+  color: black;
+  text-decoration: none;
+}
+
+.footer {
+  margin-top: 50px;
+  padding-top: 20px;
+  background-color: #1b2435;
+}
+.footer h3 {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  padding-bottom: 20px;
 }
